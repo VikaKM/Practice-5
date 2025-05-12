@@ -1,1 +1,1 @@
-https://vikakm.github.io/practice-5/ - githab pages
+https://vikakm.github.io/Practice-5/services - github pages
